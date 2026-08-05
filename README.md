@@ -1,8 +1,8 @@
 <div align="center">
-  
-<!-- Animated Typing Name Banner -->
+
+<!-- Animated Typing Name & Roles Banner -->
 <a href="https://github.com/krish-bhushan">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=36&pause=1000&color=0078D4&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Krish+Bhushan;Software+Engineer;Problem+Solver;Full-Stack+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=500&color=42A5F5&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Krish+Bhushan;Software+Engineer;Problem+Solver;Full-Stack+Enthusiast" alt="Typing SVG" />
 </a>
 
 <br><br>
@@ -29,7 +29,7 @@
 ## 🛠️ Tech Stack & Tools
 
 <div align="center">
-  
+
 ### 💻 Languages
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
