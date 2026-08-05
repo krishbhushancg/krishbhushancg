@@ -1,9 +1,13 @@
 <div align="center">
   
-# 🚀 Hi there, I'm Krish Bhushan
+<!-- Animated Typing Name Banner -->
+<a href="https://github.com/krish-bhushan">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=36&pause=1000&color=0078D4&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Krish+Bhushan;Software+Engineer;Problem+Solver;Full-Stack+Enthusiast" alt="Typing SVG" />
+</a>
 
-**Software Engineer | Problem Solver | Full-Stack Enthusiast**
+<br><br>
 
+<!-- Contact & Social Badges -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krish-bhushan-299b46427)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/H25RI5G6iO/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:krish.bhushan.cg@gmail.com)
