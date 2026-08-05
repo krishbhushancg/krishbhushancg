@@ -1,6 +1,6 @@
 <div align="center">
   
-# 🚀 Hi there, I'm [Your Name] 
+# 🚀 Hi there, I'm Krish Bhushan 
 
 **Software Engineer | Problem Solver | Full-Stack Enthusiast**
 
@@ -60,7 +60,7 @@
 ## 🏆 LeetCode Stats
 
 <div align="center">
-  <!-- Ensure you replace YOUR_LEETCODE_USERNAME below -->
+  <img src="https://leetcard.jacoblin.cool/H25RI5G6iO?theme=dark&font=Syne&ext=heatmap" alt="LeetCode Stats"/>
   <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Syne&ext=heatmap" alt="LeetCode Stats"/>
 </div>
 
