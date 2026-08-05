@@ -1,11 +1,11 @@
 <div align="center">
   
-# 🚀 Hi there, I'm Krish Bhushan 
+# 🚀 Hi there, I'm Krish Bhushan
 
 **Software Engineer | Problem Solver | Full-Stack Enthusiast**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN_PROFILE/)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/YOUR_LEETCODE_PROFILE/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krish-bhushan-299b46427)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/H25RI5G6iO/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
 
 </div>
@@ -18,7 +18,7 @@
 - 🌱 I’m actively leveling up my skills in **Data Structures, Algorithms**, and **Full-Stack Web Development**.
 - 💡 I love writing clean, efficient code and exploring system architecture.
 - 💬 Ask me about **C++, Java, or ReactJS**.
-- 📫 Reach out to me at: **[your.email@example.com]**
+- 📫 Reach out to me at: **krish.bhushan.cg** *(add your domain like @gmail.com here)*
 
 <br>
 
@@ -61,7 +61,6 @@
 
 <div align="center">
   <img src="https://leetcard.jacoblin.cool/H25RI5G6iO?theme=dark&font=Syne&ext=heatmap" alt="LeetCode Stats"/>
-  <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Syne&ext=heatmap" alt="LeetCode Stats"/>
 </div>
 
 <br>
