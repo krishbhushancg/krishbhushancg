@@ -68,23 +68,20 @@ console.log(krish.status());
 
 <div align="center">
 
-<!-- Row 1: Core stats + top languages -->
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=krishbhushancg&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F5FF&icon_color=8A2BE2&text_color=c9d1d9" />
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishbhushancg&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F5FF&text_color=c9d1d9" />
+
+
 
 <br/>
 
-<!-- Row 2: Streak stats -->
+<!-- Row 1: Streak stats -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=krishbhushancg&theme=tokyonight&hide_border=true&background=0d1117&ring=00F5FF&fire=8A2BE2&currStreakLabel=00F5FF&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff" alt="GitHub Streak" />
 
 <br/>
 
-<!-- Row 3: Activity graph (commit calendar) -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=krishbhushancg&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00F5FF&line=8A2BE2&point=ffffff&area=true&area_color=8A2BE2" alt="Contribution Graph" width="95%"/>
 
 <br/>
 
-<!-- Row 4: Metrics badges -->
+<!-- Row 2: Metrics badges -->
 <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Total%20Repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fkrishbhushancg&color=0d1117&labelColor=0d1117&logo=github&logoColor=00F5FF" />
 <img src="https://img.shields.io/github/last-commit/krishbhushancg/krishbhushancg?style=for-the-badge&label=Last%20Commit&color=0d1117&labelColor=0d1117&logo=git&logoColor=00F5FF" />
 
