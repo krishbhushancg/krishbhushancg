@@ -1,18 +1,97 @@
 <div align="center">
 
-<!-- Animated Typing Name & Roles Banner -->
-<a href="https://github.com/krish-bhushan">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=500&color=42A5F5&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Krish+Bhushan;Software+Engineer;Problem+Solver;Full-Stack+Enthusiast" alt="Typing SVG" />
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=250&section=header&text=KRISH%20BHUSHAN&fontSize=55&fontColor=00F5FF&animation=twinkling&fontAlignY=35&desc=%3C%20Full-Stack%20Developer%20/%3E&descAlignY=55&descSize=22&descColor=8A2BE2" width="100%"/>
 
-<br><br>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2500&pause=700&color=00F5FF&center=true&vCenter=true&width=600&lines=%3C+Building+the+future%2C+one+commit+at+a+time+%2F%3E;HTML+%E2%9A%A1+CSS+%E2%9A%A1+JavaScript+%E2%9A%A1+Python;System.out.print(%22Hello_World%22)%3B;Status%3A+Online+%F0%9F%9F%A2" alt="Typing SVG" />
 
-<!-- Contact & Social Badges -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krish-bhushan-299b46427)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/H25RI5G6iO/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:krish.bhushan.cg@gmail.com)
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=krishbhushancg&label=PROFILE+VIEWS&color=0f0c29&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/krishbhushancg?label=FOLLOWERS&style=for-the-badge&color=302b63)
+![Stars](https://img.shields.io/github/stars/krishbhushancg?label=STARS&style=for-the-badge&color=24243e)
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
 </div>
+
+<br/>
+
+## `> whoami`
+
+<table align="center">
+<tr>
+<td>
+
+```javascript
+const krish = {
+    role: "Full-Stack Developer",
+    stack: {
+        frontend: ["HTML5", "CSS3", "JavaScript"],
+        backend: ["Python"],
+    },
+    currentFocus: "Building sleek, functional web apps",
+    philosophy: "Clean code > clever code",
+    status: () => "Available for collaboration 🟢"
+};
+
+console.log(krish.status());
+// > Available for collaboration 🟢
+```
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## `> tech_stack.render()`
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,py,git,github,vscode,linux&theme=dark" />
+
+</div>
+
+<div align="center">
+<br/>
+
+![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=00F5FF)
+![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=00F5FF)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=00F5FF)
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00F5FF)
+
+</div>
+
+<br/>
+
+## `> analytics.fetch()`
+
+<div align="center">
+
+<!-- Row 1: Core stats + top languages -->
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=krishbhushancg&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F5FF&icon_color=8A2BE2&text_color=c9d1d9" />
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishbhushancg&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F5FF&text_color=c9d1d9" />
+
+<br/>
+
+<!-- Row 2: Streak stats -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=krishbhushancg&theme=tokyonight&hide_border=true&background=0d1117&ring=00F5FF&fire=8A2BE2&currStreakLabel=00F5FF&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff" alt="GitHub Streak" />
+
+<br/>
+
+<!-- Row 3: Activity graph (commit calendar) -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=krishbhushancg&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00F5FF&line=8A2BE2&point=ffffff&area=true&area_color=8A2BE2" alt="Contribution Graph" width="95%"/>
+
+<br/>
+
+<!-- Row 4: Metrics badges -->
+<img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Total%20Repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fkrishbhushancg&color=0d1117&labelColor=0d1117&logo=github&logoColor=00F5FF" />
+<img src="https://img.shields.io/github/last-commit/krishbhushancg/krishbhushancg?style=for-the-badge&label=Last%20Commit&color=0d1117&labelColor=0d1117&logo=git&logoColor=00F5FF" />
+
+</div>
+
+
+<br/>
 
 <br>
 
@@ -26,32 +105,13 @@
 
 <br>
 
-## 🛠️ Tech Stack & Tools
+## `> connect.init()`
 
 <div align="center">
 
-### 💻 Languages
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-
-### 🚀 Frameworks & Libraries
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="ReactJS"/>
-
-### 🗄️ Databases & Caching
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-<img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
-
-### ⚙️ Tools & Environments
-<img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code"/>
-<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-
-</div>
-
-<br>
-
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:krish.bhushan.cg@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krish-bhushan-299b46427)
+[![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/H25RI5G6iO/)
 ## 🏆 LeetCode Stats
 
 <div align="center">
@@ -62,4 +122,16 @@
 
 <div align="center">
   <i>Let's connect and build something awesome! 🚀</i>
+</div>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+![Wave](https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=150&section=footer)
+
+<i>⚡ "Code is poetry written in logic." — thanks for visiting, <a href="https://github.com/krishbhushancg">@krishbhushancg</a> ⚡</i>
+
 </div>
