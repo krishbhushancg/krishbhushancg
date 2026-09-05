@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=250&section=header&text=KRISH%20BHUSHAN&fontSize=55&fontColor=00F5FF&animation=twinkling&fontAlignY=35&desc=%3C%20Full-Stack%20Developer%20/%3E&descAlignY=55&descSize=22&descColor=8A2BE2" width="100%"/>
+<img src="./banner.svg" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2500&pause=700&color=00F5FF&center=true&vCenter=true&width=600&lines=%3C+Building+the+future%2C+one+commit+at+a+time+%2F%3E;HTML+%E2%9A%A1+CSS+%E2%9A%A1+JavaScript+%E2%9A%A1+Python;System.out.print(%22Hello_World%22)%3B;Status%3A+Online+%F0%9F%9F%A2" alt="Typing SVG" />
 
