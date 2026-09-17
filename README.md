@@ -103,6 +103,37 @@ console.log(krish.status());
 
 <br>
 
+## CURRENT FOCUS
+
+```yaml
+Learning:
+  - Python
+  - JavaScript
+  - Data Structures & Algorithms
+  - Artificial Intelligence
+  - Machine Learning
+  - Software Engineering
+
+Building:
+  - Programming Projects
+  - Web Development Projects
+  - Python Applications
+  - JavaScript Applications
+
+Exploring:
+  - AI / ML
+  - Full-Stack Development
+  - Backend Development
+  - Product Engineering
+  - Open Source
+
+Open To:
+  - Learning Opportunities
+  - Technical Collaboration
+  - Open Source Contributions
+  - Software Engineering Projects
+  - AI / ML Projects
+
 ## `> connect.init()`
 
 <div align="center">
