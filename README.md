@@ -2,6 +2,14 @@
 
 <img src="./banner.svg" width="100%" alt="Krish Bhushan Banner"/>
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./light.svg">
+    <img src="./dark.svg" alt="Krish Bhushan — animated developer profile banner" width="1180">
+  </picture>
+</p>
+
 <br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=700&color=00F5FF&center=true&vCenter=true&width=850&lines=%3C+Building+the+future%2C+one+commit+at+a+time+%2F%3E;B.Tech+CSE+%7C+AI%2FML;HTML+%E2%9A%A1+CSS+%E2%9A%A1+JavaScript+%E2%9A%A1+Python;Learning+%E2%80%A2+Building+%E2%80%A2+Exploring;Status%3A+Always+Learning+%F0%9F%9F%A2" alt="Typing SVG"/>
