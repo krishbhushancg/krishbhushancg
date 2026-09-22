@@ -150,7 +150,7 @@ console.log("Hello, World!");
 
 |  🎓 Degree |        🏫 University        |             🧠 Specialization            |
 | :--------: | :-------------------------: | :--------------------------------------: |
-| **B.Tech** | **Swaminarayan University** | **Computer Science Engineering — AI/ML** |
+| **B.Tech** | **Swaminarayan University** | **Computer Science Engineering — AI** |
 
 </div>
 
