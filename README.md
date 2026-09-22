@@ -50,7 +50,7 @@ const krish = {
     education: {
         degree: "B.Tech",
         branch: "Computer Science Engineering",
-        specialization: "AI / ML",
+        specialization: "AI",
         university: "Swaminarayan University"
     },
 
