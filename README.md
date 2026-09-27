@@ -275,13 +275,12 @@ console.log("Hello, World!");
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=krishbhushancg&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=8A2BE2&text_color=C9D1D9&ring_color=00F5FF" height="180" alt="GitHub Stats"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=krishbhushancg&theme=tokyonight&hide_border=true&background=0d1117&ring=00F5FF&fire=8A2BE2&currStreakLabel=00F5FF&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff" height="180" alt="GitHub Streak"/>
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishbhushancg&layout=compact&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=C9D1D9&langs_count=8" height="180" alt="Top Languages"/>
+
 
 </div>
 
@@ -305,27 +304,7 @@ console.log("Hello, World!");
 
 ---
 
-## `> github.trophies()`
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=krishbhushancg&theme=onestar&no-frame=true&no-bg=true&margin-w=8&column=7" width="95%" alt="GitHub Trophies"/>
-
-</div>
-
-<br/>
-
----
-
-## `> contribution.activity()`
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=krishbhushancg&bg_color=0D1117&color=00F5FF&line=8A2BE2&point=FFFFFF&area=true&hide_border=true&custom_title=Krish%20Bhushan%20-%20Contribution%20Activity" width="100%" alt="Contribution Activity"/>
-
-</div>
-
-<br/>
 
 ---
 
